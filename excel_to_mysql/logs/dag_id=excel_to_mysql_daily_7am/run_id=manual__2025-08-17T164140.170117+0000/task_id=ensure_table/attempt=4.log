@@ -1,0 +1,51 @@
+[2025-08-17T16:54:16.197+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2025-08-17T16:54:16.231+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: excel_to_mysql_daily_7am.ensure_table manual__2025-08-17T16:41:40.170117+00:00 [queued]>
+[2025-08-17T16:54:16.238+0000] {taskinstance.py:2076} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: excel_to_mysql_daily_7am.ensure_table manual__2025-08-17T16:41:40.170117+00:00 [queued]>
+[2025-08-17T16:54:16.239+0000] {taskinstance.py:2306} INFO - Starting attempt 4 of 4
+[2025-08-17T16:54:16.252+0000] {taskinstance.py:2330} INFO - Executing <Task(MySqlOperator): ensure_table> on 2025-08-17 16:41:40.170117+00:00
+[2025-08-17T16:54:16.261+0000] {standard_task_runner.py:90} INFO - Running: ['***', 'tasks', 'run', 'excel_to_mysql_daily_7am', 'ensure_table', 'manual__2025-08-17T16:41:40.170117+00:00', '--job-id', '20', '--raw', '--subdir', 'DAGS_FOLDER/excel_to_mysql_dag.py', '--cfg-path', '/tmp/tmpm03lfiog']
+[2025-08-17T16:54:16.264+0000] {standard_task_runner.py:91} INFO - Job 20: Subtask ensure_table
+[2025-08-17T16:54:16.266+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:61 DeprecationWarning: This process (pid=459) is multi-threaded, use of fork() may lead to deadlocks in the child.
+[2025-08-17T16:54:16.267+0000] {standard_task_runner.py:63} INFO - Started process 461 to run task
+[2025-08-17T16:54:16.330+0000] {task_command.py:426} INFO - Running <TaskInstance: excel_to_mysql_daily_7am.ensure_table manual__2025-08-17T16:41:40.170117+00:00 [running]> on host 9e46b3905fa0
+[2025-08-17T16:54:16.432+0000] {taskinstance.py:2648} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='excel_to_mysql_daily_7am' AIRFLOW_CTX_TASK_ID='ensure_table' AIRFLOW_CTX_EXECUTION_DATE='2025-08-17T16:41:40.170117+00:00' AIRFLOW_CTX_TRY_NUMBER='4' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-08-17T16:41:40.170117+00:00'
+[2025-08-17T16:54:16.433+0000] {taskinstance.py:430} INFO - ::endgroup::
+[2025-08-17T16:54:16.434+0000] {sql.py:276} INFO - Executing: CREATE TABLE IF NOT EXISTS excel_combined (
+  id BIGINT AUTO_INCREMENT PRIMARY KEY,
+  source_sheet VARCHAR(128),
+  load_date DATE,
+  col1 TEXT NULL,
+  col2 TEXT NULL,
+  col3 TEXT NULL,
+  col4 TEXT NULL,
+  col5 TEXT NULL,
+  col6 TEXT NULL,
+  col7 TEXT NULL,
+  col8 TEXT NULL,
+  col9 TEXT NULL,
+  col10 TEXT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
+[2025-08-17T16:54:16.447+0000] {base.py:84} INFO - Using connection ID 'mysql_target' for task execution.
+[2025-08-17T16:54:16.460+0000] {base.py:84} INFO - Using connection ID 'mysql_target' for task execution.
+[2025-08-17T16:54:16.475+0000] {sql.py:487} INFO - Running statement: CREATE TABLE IF NOT EXISTS excel_combined (
+  id BIGINT AUTO_INCREMENT PRIMARY KEY,
+  source_sheet VARCHAR(128),
+  load_date DATE,
+  col1 TEXT NULL,
+  col2 TEXT NULL,
+  col3 TEXT NULL,
+  col4 TEXT NULL,
+  col5 TEXT NULL,
+  col6 TEXT NULL,
+  col7 TEXT NULL,
+  col8 TEXT NULL,
+  col9 TEXT NULL,
+  col10 TEXT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;, parameters: None
+[2025-08-17T16:54:16.516+0000] {sql.py:496} INFO - Rows affected: 0
+[2025-08-17T16:54:16.517+0000] {taskinstance.py:441} INFO - ::group::Post task execution logs
+[2025-08-17T16:54:16.532+0000] {taskinstance.py:1206} INFO - Marking task as SUCCESS. dag_id=excel_to_mysql_daily_7am, task_id=ensure_table, run_id=manual__2025-08-17T16:41:40.170117+00:00, execution_date=20250817T164140, start_date=20250817T165416, end_date=20250817T165416
+[2025-08-17T16:54:16.561+0000] {local_task_job_runner.py:240} INFO - Task exited with return code 0
+[2025-08-17T16:54:16.577+0000] {logging_mixin.py:188} WARNING - /home/***/.local/lib/python3.12/site-packages/***/models/baseoperator.py:1297 AirflowProviderDeprecationWarning: Call to deprecated class MySqlOperator. (Please use `***.providers.common.sql.operators.sql.SQLExecuteQueryOperator`.Also, you can provide `hook_params={'schema': <database>}`.)
+[2025-08-17T16:54:16.592+0000] {taskinstance.py:3503} INFO - 1 downstream tasks scheduled from follow-on schedule check
+[2025-08-17T16:54:16.595+0000] {local_task_job_runner.py:222} INFO - ::endgroup::

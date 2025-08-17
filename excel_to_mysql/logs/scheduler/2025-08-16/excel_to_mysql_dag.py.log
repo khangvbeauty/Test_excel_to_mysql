@@ -1,0 +1,1071 @@
+[2025-08-16T08:40:32.616+0000] {processor.py:161} INFO - Started process (PID=186) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:40:32.619+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:40:32.625+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:40:32.623+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:40:34.556+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:40:35.346+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:40:35.346+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:40:35.416+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:40:35.415+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:40:35.461+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 2.893 seconds
+[2025-08-16T08:41:06.180+0000] {processor.py:161} INFO - Started process (PID=204) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:41:06.182+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:41:06.190+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:41:06.188+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:41:09.998+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:41:10.885+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:41:10.884+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:41:10.993+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:41:10.993+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:41:11.126+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 4.955 seconds
+[2025-08-16T08:41:41.267+0000] {processor.py:161} INFO - Started process (PID=215) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:41:41.270+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:41:41.275+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:41:41.274+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:41:41.932+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:41:41.982+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:41:41.982+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:41:42.011+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:41:42.011+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:41:42.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.774 seconds
+[2025-08-16T08:42:12.411+0000] {processor.py:161} INFO - Started process (PID=226) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:42:12.412+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:42:12.414+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:42:12.414+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:42:12.977+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:42:13.016+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:42:13.015+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:42:13.048+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:42:13.048+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:42:13.068+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.663 seconds
+[2025-08-16T08:42:43.574+0000] {processor.py:161} INFO - Started process (PID=237) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:42:43.576+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:42:43.578+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:42:43.578+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:42:44.228+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:42:44.285+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:42:44.285+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:42:44.326+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:42:44.326+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:42:44.354+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.788 seconds
+[2025-08-16T08:43:14.723+0000] {processor.py:161} INFO - Started process (PID=248) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:43:14.724+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:43:14.726+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:43:14.726+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:43:15.139+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:43:15.171+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:43:15.170+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:43:15.195+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:43:15.195+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:43:15.215+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.498 seconds
+[2025-08-16T08:43:45.956+0000] {processor.py:161} INFO - Started process (PID=259) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:43:45.957+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:43:45.959+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:43:45.958+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:43:46.440+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:43:46.476+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:43:46.476+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:43:46.503+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:43:46.503+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:43:46.526+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.577 seconds
+[2025-08-16T08:44:16.741+0000] {processor.py:161} INFO - Started process (PID=270) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:44:16.743+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:44:16.755+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:44:16.754+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:44:17.368+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:44:17.402+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:44:17.402+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:44:17.426+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:44:17.426+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:44:17.446+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.719 seconds
+[2025-08-16T08:44:47.619+0000] {processor.py:161} INFO - Started process (PID=281) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:44:47.620+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:44:47.622+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:44:47.622+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:44:49.090+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:44:49.147+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:44:49.147+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:44:49.184+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:44:49.184+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:44:49.207+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 1.596 seconds
+[2025-08-16T08:45:19.278+0000] {processor.py:161} INFO - Started process (PID=292) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:45:19.279+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:45:19.281+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:45:19.280+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:45:19.772+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:45:19.820+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:45:19.820+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:45:19.860+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:45:19.860+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:45:19.883+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.611 seconds
+[2025-08-16T08:45:50.466+0000] {processor.py:161} INFO - Started process (PID=303) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:45:50.468+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:45:50.470+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:45:50.470+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:45:50.954+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:45:50.986+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:45:50.986+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:45:51.011+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:45:51.011+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:45:51.030+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.573 seconds
+[2025-08-16T08:46:21.152+0000] {processor.py:161} INFO - Started process (PID=314) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:46:21.154+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:46:21.158+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:46:21.157+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:46:21.724+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:46:21.761+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:46:21.761+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:46:21.793+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:46:21.792+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:46:21.821+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.675 seconds
+[2025-08-16T08:46:52.779+0000] {processor.py:161} INFO - Started process (PID=325) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:46:52.781+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:46:52.784+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:46:52.783+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:46:53.499+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:46:53.548+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:46:53.548+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:46:53.591+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:46:53.590+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:46:53.631+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.859 seconds
+[2025-08-16T08:47:23.924+0000] {processor.py:161} INFO - Started process (PID=336) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:47:23.925+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:47:23.926+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:47:23.926+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:47:24.454+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:47:24.216+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:47:24.216+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:47:24.247+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:47:24.246+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:47:24.274+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.641 seconds
+[2025-08-16T08:47:54.899+0000] {processor.py:161} INFO - Started process (PID=347) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:47:54.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:47:54.902+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:47:54.902+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:47:55.505+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:47:55.545+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:47:55.544+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:47:55.579+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:47:55.579+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:47:55.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.712 seconds
+[2025-08-16T08:48:26.041+0000] {processor.py:161} INFO - Started process (PID=358) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:48:26.042+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:48:26.044+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:48:26.044+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:48:26.558+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:48:26.623+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:48:26.623+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:48:26.681+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:48:26.681+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:48:26.720+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.685 seconds
+[2025-08-16T08:48:57.090+0000] {processor.py:161} INFO - Started process (PID=369) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:48:57.091+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:48:57.093+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:48:57.093+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:48:57.634+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:48:57.670+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:48:57.670+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:48:57.694+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:48:57.694+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:48:57.717+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.633 seconds
+[2025-08-16T08:49:28.057+0000] {processor.py:161} INFO - Started process (PID=380) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:49:28.058+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:49:28.060+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:49:28.060+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:49:28.569+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:49:28.599+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:49:28.599+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:49:28.643+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:49:28.643+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:49:28.680+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.629 seconds
+[2025-08-16T08:49:58.805+0000] {processor.py:161} INFO - Started process (PID=391) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:49:58.807+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:49:58.809+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:49:58.809+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:49:59.288+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:49:59.356+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:49:59.355+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:49:59.402+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:49:59.401+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:49:59.451+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.651 seconds
+[2025-08-16T08:50:29.654+0000] {processor.py:161} INFO - Started process (PID=402) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:50:29.655+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:50:29.657+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:50:29.656+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:50:30.229+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:50:30.271+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:50:30.271+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:50:30.388+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:50:30.388+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:50:30.410+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.762 seconds
+[2025-08-16T08:51:00.803+0000] {processor.py:161} INFO - Started process (PID=413) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:51:00.805+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:51:00.817+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:51:00.815+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:51:01.329+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:51:01.385+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:51:01.384+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:51:01.438+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:51:01.438+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:51:01.465+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.673 seconds
+[2025-08-16T08:51:31.773+0000] {processor.py:161} INFO - Started process (PID=424) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:51:31.775+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:51:31.778+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:51:31.777+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:51:32.323+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:51:32.416+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:51:32.415+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:51:32.469+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:51:32.469+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:51:32.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.733 seconds
+[2025-08-16T08:52:02.955+0000] {processor.py:161} INFO - Started process (PID=435) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:52:02.958+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:52:02.964+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:52:02.962+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:52:03.577+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:52:03.615+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:52:03.615+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:52:03.644+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:52:03.643+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:52:03.672+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.727 seconds
+[2025-08-16T08:52:33.767+0000] {processor.py:161} INFO - Started process (PID=446) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:52:33.769+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:52:33.771+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:52:33.771+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:52:34.303+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:52:34.363+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:52:34.362+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:52:34.398+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:52:34.398+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:52:34.431+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.671 seconds
+[2025-08-16T08:53:05.420+0000] {processor.py:161} INFO - Started process (PID=457) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:53:05.422+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:53:05.425+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:53:05.425+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:53:05.915+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:53:05.950+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:53:05.950+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:53:05.975+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:53:05.975+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:53:06.008+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.599 seconds
+[2025-08-16T08:53:36.735+0000] {processor.py:161} INFO - Started process (PID=468) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:53:36.736+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:53:36.737+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:53:36.737+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:53:37.206+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:53:37.243+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:53:37.242+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:53:37.268+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:53:37.268+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:53:37.288+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.559 seconds
+[2025-08-16T08:54:07.379+0000] {processor.py:161} INFO - Started process (PID=479) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:54:07.380+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:54:07.382+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:54:07.382+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:54:08.002+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:54:08.048+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:54:08.048+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:54:08.079+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:54:08.079+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:54:08.100+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.727 seconds
+[2025-08-16T08:54:39.091+0000] {processor.py:161} INFO - Started process (PID=490) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:54:39.092+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:54:39.095+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:54:39.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:54:40.126+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:54:40.179+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:54:40.179+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:54:40.209+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:54:40.209+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:54:40.235+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 1.152 seconds
+[2025-08-16T08:55:10.370+0000] {processor.py:161} INFO - Started process (PID=501) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:55:10.371+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:55:10.374+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:55:10.373+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:55:11.092+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:55:11.138+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:55:11.137+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:55:11.220+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:55:11.219+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:55:11.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.932 seconds
+[2025-08-16T08:55:41.433+0000] {processor.py:161} INFO - Started process (PID=512) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:55:41.435+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:55:41.437+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:55:41.437+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:55:42.121+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:55:42.164+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:55:42.164+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:55:42.232+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:55:42.232+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:55:42.263+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.840 seconds
+[2025-08-16T08:56:12.551+0000] {processor.py:161} INFO - Started process (PID=523) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:56:12.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:56:12.555+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:56:12.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:56:13.076+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:56:13.111+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:56:13.111+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:56:13.144+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:56:13.144+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:56:13.165+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.626 seconds
+[2025-08-16T08:56:43.546+0000] {processor.py:161} INFO - Started process (PID=534) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:56:43.547+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:56:43.549+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:56:43.549+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:56:44.009+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:56:44.046+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:56:44.046+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:56:44.131+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:56:44.131+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:56:44.174+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.637 seconds
+[2025-08-16T08:57:14.230+0000] {processor.py:161} INFO - Started process (PID=545) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:57:14.231+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:57:14.233+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:57:14.232+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:57:14.674+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:57:14.713+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:57:14.713+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:57:14.738+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:57:14.738+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:57:14.758+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.535 seconds
+[2025-08-16T08:57:45.773+0000] {processor.py:161} INFO - Started process (PID=556) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:57:45.774+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:57:45.777+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:57:45.777+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:57:47.117+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:57:47.233+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:57:47.232+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:57:47.285+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:57:47.285+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:57:47.310+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 1.545 seconds
+[2025-08-16T08:58:18.184+0000] {processor.py:161} INFO - Started process (PID=567) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:58:18.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:58:18.188+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:58:18.187+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:58:18.779+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:58:18.964+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:58:18.964+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:58:19.040+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:58:19.040+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:58:19.075+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.898 seconds
+[2025-08-16T08:58:49.138+0000] {processor.py:161} INFO - Started process (PID=578) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:58:49.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:58:49.141+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:58:49.140+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:58:49.172+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:58:49.210+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:58:49.210+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:58:49.233+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:58:49.233+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:58:49.253+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.585 seconds
+[2025-08-16T08:59:20.092+0000] {processor.py:161} INFO - Started process (PID=594) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:59:20.093+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:59:20.095+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:59:20.094+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:59:20.581+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:59:20.614+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:59:20.614+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:59:20.638+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:59:20.638+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:59:20.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.576 seconds
+[2025-08-16T08:59:51.592+0000] {processor.py:161} INFO - Started process (PID=605) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:59:51.593+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T08:59:51.595+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:59:51.595+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:59:52.077+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T08:59:52.139+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:59:52.139+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T08:59:52.253+0000] {logging_mixin.py:188} INFO - [2025-08-16T08:59:52.253+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T08:59:52.313+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.726 seconds
+[2025-08-16T09:00:22.496+0000] {processor.py:161} INFO - Started process (PID=616) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:00:22.498+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:00:22.499+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:00:22.499+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:00:23.262+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:00:23.292+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:00:23.292+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:00:23.316+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:00:23.316+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:00:23.333+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.843 seconds
+[2025-08-16T09:00:53.610+0000] {processor.py:161} INFO - Started process (PID=627) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:00:53.612+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:00:53.614+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:00:53.613+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:00:54.053+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:00:54.085+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:00:54.085+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:00:54.111+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:00:54.111+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:00:54.132+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.528 seconds
+[2025-08-16T09:01:25.047+0000] {processor.py:161} INFO - Started process (PID=638) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:01:25.049+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:01:25.050+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:01:25.050+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:01:25.531+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:01:25.565+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:01:25.565+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:01:25.588+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:01:25.588+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:01:25.607+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.568 seconds
+[2025-08-16T09:01:56.542+0000] {processor.py:161} INFO - Started process (PID=649) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:01:56.544+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:01:56.546+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:01:56.546+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:01:57.063+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:01:57.149+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:01:57.149+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:01:57.249+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:01:57.249+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:01:57.269+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.738 seconds
+[2025-08-16T09:02:28.193+0000] {processor.py:161} INFO - Started process (PID=660) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:02:28.194+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:02:28.197+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:02:28.196+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:02:28.723+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:02:28.758+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:02:28.758+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:02:28.786+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:02:28.786+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:02:28.809+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.624 seconds
+[2025-08-16T09:02:59.551+0000] {processor.py:161} INFO - Started process (PID=671) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:02:59.552+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:02:59.555+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:02:59.555+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:03:00.072+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:03:00.111+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:03:00.111+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:03:00.138+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:03:00.138+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:03:00.162+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.622 seconds
+[2025-08-16T09:03:31.190+0000] {processor.py:161} INFO - Started process (PID=682) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:03:31.191+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:03:31.193+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:03:31.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:03:31.666+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:03:31.699+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:03:31.699+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:03:31.722+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:03:31.722+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:03:31.743+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.558 seconds
+[2025-08-16T09:04:02.615+0000] {processor.py:161} INFO - Started process (PID=693) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:04:02.617+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:04:02.619+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:04:02.619+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:04:01.644+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:04:01.677+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:04:01.677+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:04:01.702+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:04:01.702+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:04:01.754+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.667 seconds
+[2025-08-16T09:04:32.686+0000] {processor.py:161} INFO - Started process (PID=704) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:04:32.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:04:32.690+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:04:32.690+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:04:33.342+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:04:33.374+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:04:33.374+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:04:33.399+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:04:33.399+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:04:33.421+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.740 seconds
+[2025-08-16T09:05:04.462+0000] {processor.py:161} INFO - Started process (PID=715) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:05:04.463+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:05:04.465+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:05:04.464+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:05:04.986+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:05:05.020+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:05:05.020+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:05:05.046+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:05:05.045+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:05:05.071+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.617 seconds
+[2025-08-16T09:05:36.104+0000] {processor.py:161} INFO - Started process (PID=726) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:05:36.147+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:05:36.159+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:05:36.158+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:05:36.762+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:05:36.818+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:05:36.818+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:05:36.946+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:05:36.946+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:05:37.027+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.936 seconds
+[2025-08-16T09:06:07.254+0000] {processor.py:161} INFO - Started process (PID=737) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:06:07.255+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:06:07.257+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:06:07.256+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:06:07.710+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:06:07.746+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:06:07.746+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:06:07.770+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:06:07.769+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:06:07.791+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.547 seconds
+[2025-08-16T09:06:38.663+0000] {processor.py:161} INFO - Started process (PID=748) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:06:38.665+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:06:38.666+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:06:38.666+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:06:39.127+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:06:39.159+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:06:39.159+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:06:39.185+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:06:39.185+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:06:39.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.548 seconds
+[2025-08-16T09:07:10.138+0000] {processor.py:161} INFO - Started process (PID=759) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:07:10.139+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:07:10.142+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:07:10.141+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:07:10.611+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:07:10.649+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:07:10.648+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:07:10.674+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:07:10.674+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:07:10.693+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.561 seconds
+[2025-08-16T09:07:41.529+0000] {processor.py:161} INFO - Started process (PID=770) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:07:41.530+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:07:41.531+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:07:41.531+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:07:41.963+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:07:42.072+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:07:42.072+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:07:42.128+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:07:42.128+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:07:42.157+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.633 seconds
+[2025-08-16T09:08:13.076+0000] {processor.py:161} INFO - Started process (PID=781) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:08:13.078+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:08:13.081+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:08:13.081+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:08:13.646+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:08:13.686+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:08:13.686+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:08:13.711+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:08:13.711+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:08:13.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.665 seconds
+[2025-08-16T09:08:44.627+0000] {processor.py:161} INFO - Started process (PID=792) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:08:44.628+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:08:44.630+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:08:44.629+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:08:45.061+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:08:45.095+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:08:45.095+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:08:45.126+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:08:45.125+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:08:45.154+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.533 seconds
+[2025-08-16T09:09:15.608+0000] {processor.py:161} INFO - Started process (PID=803) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:09:15.609+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:09:15.611+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:09:15.611+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:09:16.061+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:09:16.150+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:09:16.150+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:09:16.176+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:09:16.176+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:09:16.195+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.595 seconds
+[2025-08-16T09:09:47.199+0000] {processor.py:161} INFO - Started process (PID=814) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:09:47.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:09:47.202+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:09:47.202+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:09:47.687+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:09:47.723+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:09:47.723+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:09:47.747+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:09:47.747+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:09:48.111+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.917 seconds
+[2025-08-16T09:10:19.035+0000] {processor.py:161} INFO - Started process (PID=825) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:10:19.036+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:10:19.039+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:10:19.038+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:10:19.566+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:10:19.601+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:10:19.601+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:10:19.716+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:10:19.716+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:10:19.788+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.759 seconds
+[2025-08-16T09:10:50.830+0000] {processor.py:161} INFO - Started process (PID=836) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:10:50.832+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:10:50.837+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:10:50.836+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:10:51.447+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:10:51.484+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:10:51.483+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:10:51.522+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:10:51.522+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:10:51.546+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.731 seconds
+[2025-08-16T09:11:22.512+0000] {processor.py:161} INFO - Started process (PID=847) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:11:22.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:11:22.516+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:11:22.515+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:11:23.009+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:11:23.048+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:11:23.048+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:11:23.085+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:11:23.084+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:11:23.114+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.607 seconds
+[2025-08-16T09:11:53.964+0000] {processor.py:161} INFO - Started process (PID=858) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:11:53.965+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:11:53.968+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:11:53.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:11:54.458+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:11:54.516+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:11:54.516+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:11:54.576+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:11:54.576+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:11:54.608+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.653 seconds
+[2025-08-16T09:12:25.445+0000] {processor.py:161} INFO - Started process (PID=869) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:12:25.446+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:12:25.448+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:12:25.448+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:12:25.912+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:12:25.945+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:12:25.945+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:12:25.970+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:12:25.970+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:12:25.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.550 seconds
+[2025-08-16T09:12:56.884+0000] {processor.py:161} INFO - Started process (PID=880) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:12:56.885+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:12:56.887+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:12:56.887+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:12:57.343+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:12:57.377+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:12:57.377+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:12:57.403+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:12:57.403+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:12:57.424+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.546 seconds
+[2025-08-16T09:13:27.672+0000] {processor.py:161} INFO - Started process (PID=891) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:13:27.673+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:13:27.675+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:13:27.675+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:13:28.129+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:13:28.167+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:13:28.167+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:13:28.194+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:13:28.194+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:13:28.221+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.556 seconds
+[2025-08-16T09:13:59.042+0000] {processor.py:161} INFO - Started process (PID=902) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:13:59.043+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:13:59.045+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:13:59.045+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:13:58.893+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:13:58.925+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:13:58.925+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:13:58.949+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:13:58.949+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:13:58.971+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.536 seconds
+[2025-08-16T09:14:29.823+0000] {processor.py:161} INFO - Started process (PID=913) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:14:29.824+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:14:29.826+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:14:29.825+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:14:30.343+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:14:30.384+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:14:30.384+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:14:30.418+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:14:30.417+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:14:30.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.676 seconds
+[2025-08-16T09:15:01.429+0000] {processor.py:161} INFO - Started process (PID=924) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:15:01.430+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:15:01.432+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:15:01.432+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:15:01.906+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:15:01.939+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:15:01.938+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:15:01.963+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:15:01.963+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:15:01.983+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.560 seconds
+[2025-08-16T09:15:32.745+0000] {processor.py:161} INFO - Started process (PID=935) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:15:32.747+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:15:32.749+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:15:32.748+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:15:33.200+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:15:33.243+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:15:33.243+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:15:33.269+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:15:33.269+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:15:33.291+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.552 seconds
+[2025-08-16T09:16:03.351+0000] {processor.py:161} INFO - Started process (PID=946) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:16:03.352+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:16:03.354+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:16:03.354+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:16:03.770+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:16:03.803+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:16:03.803+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:16:03.825+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:16:03.825+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:16:03.845+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.500 seconds
+[2025-08-16T09:16:34.857+0000] {processor.py:161} INFO - Started process (PID=957) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:16:34.858+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:16:34.861+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:16:34.860+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:16:35.323+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:16:35.417+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:16:35.417+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:16:35.469+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:16:35.469+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:16:35.499+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.650 seconds
+[2025-08-16T09:17:06.398+0000] {processor.py:161} INFO - Started process (PID=968) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:17:06.399+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:17:06.401+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:17:06.401+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:17:06.848+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:17:06.879+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:17:06.879+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:17:06.903+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:17:06.903+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:17:06.922+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.531 seconds
+[2025-08-16T09:17:37.710+0000] {processor.py:161} INFO - Started process (PID=979) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:17:37.711+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:17:37.713+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:17:37.713+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:17:38.119+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:17:38.154+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:17:38.154+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:17:38.181+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:17:38.181+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:17:38.201+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.497 seconds
+[2025-08-16T09:18:08.899+0000] {processor.py:161} INFO - Started process (PID=995) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:18:08.900+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:18:08.902+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:18:08.901+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:18:09.348+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:18:09.456+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:18:09.456+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:18:09.513+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:18:09.513+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:18:09.565+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.672 seconds
+[2025-08-16T09:18:40.474+0000] {processor.py:161} INFO - Started process (PID=1006) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:18:40.475+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:18:40.477+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:18:40.477+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:18:41.025+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:18:41.067+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:18:41.067+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:18:41.098+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:18:41.098+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:18:41.122+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.655 seconds
+[2025-08-16T09:19:11.316+0000] {processor.py:161} INFO - Started process (PID=1017) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:19:11.317+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:19:11.319+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:19:11.319+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:19:11.767+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:19:11.800+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:19:11.800+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:19:11.823+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:19:11.823+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:19:11.843+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.532 seconds
+[2025-08-16T09:19:42.755+0000] {processor.py:161} INFO - Started process (PID=1028) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:19:42.756+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:19:42.759+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:19:42.758+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:19:43.274+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:19:43.306+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:19:43.306+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:19:43.329+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:19:43.329+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:19:43.349+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.601 seconds
+[2025-08-16T09:20:13.643+0000] {processor.py:161} INFO - Started process (PID=1039) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:20:13.644+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:20:13.646+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:20:13.646+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:20:14.132+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:20:14.215+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:20:14.214+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:20:14.279+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:20:14.279+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:20:14.316+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.679 seconds
+[2025-08-16T09:20:45.252+0000] {processor.py:161} INFO - Started process (PID=1050) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:20:45.253+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:20:45.255+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:20:45.254+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:20:45.708+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:20:45.741+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:20:45.741+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:20:45.764+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:20:45.764+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:20:45.784+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.539 seconds
+[2025-08-16T09:21:16.623+0000] {processor.py:161} INFO - Started process (PID=1061) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:21:16.625+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:21:16.628+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:21:16.627+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:21:17.264+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:21:17.326+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:21:17.326+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:21:17.366+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:21:17.366+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:21:17.396+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.783 seconds
+[2025-08-16T09:21:47.452+0000] {processor.py:161} INFO - Started process (PID=1072) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:21:47.453+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:21:47.455+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:21:47.455+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:21:48.090+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:21:48.125+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:21:48.125+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:21:48.151+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:21:48.151+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:21:48.171+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.727 seconds
+[2025-08-16T09:22:19.199+0000] {processor.py:161} INFO - Started process (PID=1083) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:22:19.200+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:22:19.202+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:22:19.202+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:22:19.722+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:22:19.756+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:22:19.756+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:22:19.780+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:22:19.780+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:22:19.801+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.609 seconds
+[2025-08-16T09:22:50.803+0000] {processor.py:161} INFO - Started process (PID=1094) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:22:50.804+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:22:50.807+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:22:50.807+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:22:51.633+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:22:51.682+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:22:51.681+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:22:51.745+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:22:51.745+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:22:51.854+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 1.068 seconds
+[2025-08-16T09:23:22.683+0000] {processor.py:161} INFO - Started process (PID=1105) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:23:22.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:23:22.695+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:23:22.693+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:23:23.185+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:23:23.218+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:23:23.218+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:23:23.249+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:23:23.249+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:23:23.282+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.617 seconds
+[2025-08-16T09:23:54.213+0000] {processor.py:161} INFO - Started process (PID=1116) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:23:54.214+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:23:54.216+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:23:54.216+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:23:54.699+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:23:54.732+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:23:54.732+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:23:54.756+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:23:54.756+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:23:54.776+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.569 seconds
+[2025-08-16T09:24:25.030+0000] {processor.py:161} INFO - Started process (PID=1127) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:24:25.032+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:24:25.034+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:24:25.033+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:24:25.529+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:24:25.648+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:24:25.647+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:24:25.724+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:24:25.723+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:24:25.769+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.745 seconds
+[2025-08-16T09:24:56.680+0000] {processor.py:161} INFO - Started process (PID=1138) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:24:56.681+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:24:56.683+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:24:56.683+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:24:57.203+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:24:57.235+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:24:57.234+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:24:57.258+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:24:57.258+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:24:57.278+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.603 seconds
+[2025-08-16T09:25:28.229+0000] {processor.py:161} INFO - Started process (PID=1149) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:25:28.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:25:28.231+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:25:28.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:25:28.666+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:25:28.697+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:25:28.696+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:25:28.720+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:25:28.719+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:25:28.740+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.517 seconds
+[2025-08-16T09:25:59.686+0000] {processor.py:161} INFO - Started process (PID=1160) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:25:59.687+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:25:59.689+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:25:59.688+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:26:00.089+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:26:00.120+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:26:00.119+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:26:00.143+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:26:00.143+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:26:00.166+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.486 seconds
+[2025-08-16T09:26:30.987+0000] {processor.py:161} INFO - Started process (PID=1171) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:26:30.988+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:26:30.990+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:26:30.989+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:26:31.425+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:26:31.461+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:26:31.461+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:26:31.490+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:26:31.489+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:26:31.514+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.533 seconds
+[2025-08-16T09:27:01.912+0000] {processor.py:161} INFO - Started process (PID=1182) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:27:01.914+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:27:01.916+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:27:01.916+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:27:02.409+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:27:02.444+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:27:02.444+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:27:02.469+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:27:02.469+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:27:02.498+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.593 seconds
+[2025-08-16T09:27:33.337+0000] {processor.py:161} INFO - Started process (PID=1193) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:27:33.338+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:27:33.339+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:27:33.339+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:27:33.794+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:27:33.832+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:27:33.832+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:27:33.856+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:27:33.856+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:27:33.876+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.544 seconds
+[2025-08-16T09:28:04.729+0000] {processor.py:161} INFO - Started process (PID=1204) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:28:04.730+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:28:04.731+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:28:04.731+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:28:05.252+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:28:05.288+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:28:05.287+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:28:05.315+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:28:05.315+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:28:05.341+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.618 seconds
+[2025-08-16T09:28:36.161+0000] {processor.py:161} INFO - Started process (PID=1215) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:28:36.161+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:28:36.163+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:28:36.163+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:28:36.621+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:28:36.653+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:28:36.653+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:28:36.677+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:28:36.677+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:28:36.697+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.542 seconds
+[2025-08-16T09:29:06.848+0000] {processor.py:161} INFO - Started process (PID=1226) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:29:06.849+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:29:06.850+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:29:06.850+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:29:07.262+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:29:07.294+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:29:07.294+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:29:07.317+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:29:07.317+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:29:07.337+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.494 seconds
+[2025-08-16T09:29:38.204+0000] {processor.py:161} INFO - Started process (PID=1237) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:29:38.205+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:29:38.207+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:29:38.207+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:29:38.629+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:29:38.660+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:29:38.660+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:29:38.686+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:29:38.686+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:29:38.714+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.515 seconds
+[2025-08-16T09:30:09.561+0000] {processor.py:161} INFO - Started process (PID=1248) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:30:09.561+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:30:09.563+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:30:09.563+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:30:09.968+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:30:09.999+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:30:09.999+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:30:10.059+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:30:10.059+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:30:10.112+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.557 seconds
+[2025-08-16T09:30:40.920+0000] {processor.py:161} INFO - Started process (PID=1259) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:30:40.921+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:30:40.922+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:30:40.922+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:30:41.416+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:30:41.455+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:30:41.455+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:30:41.483+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:30:41.482+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:30:41.502+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.588 seconds
+[2025-08-16T09:31:12.270+0000] {processor.py:161} INFO - Started process (PID=1270) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:31:12.271+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:31:12.273+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:31:12.273+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:31:12.772+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:31:12.808+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:31:12.807+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:31:12.836+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:31:12.836+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:31:12.855+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.591 seconds
+[2025-08-16T09:31:43.870+0000] {processor.py:161} INFO - Started process (PID=1281) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:31:43.871+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:31:43.873+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:31:43.872+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:31:44.333+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:31:44.372+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:31:44.372+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:31:44.400+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:31:44.400+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:31:44.422+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.558 seconds
+[2025-08-16T09:32:15.362+0000] {processor.py:161} INFO - Started process (PID=1292) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:32:15.364+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:32:15.366+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:32:15.366+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:32:15.884+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:32:15.929+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:32:15.928+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:32:15.963+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:32:15.962+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:32:15.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.635 seconds
+[2025-08-16T09:32:46.905+0000] {processor.py:161} INFO - Started process (PID=1303) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:32:46.906+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:32:46.908+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:32:46.908+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:32:47.338+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:32:47.371+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:32:47.371+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:32:47.394+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:32:47.393+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:32:47.414+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.515 seconds
+[2025-08-16T09:33:18.274+0000] {processor.py:161} INFO - Started process (PID=1314) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:33:18.275+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:33:18.277+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:33:18.277+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:33:18.683+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:33:18.713+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:33:18.713+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:33:18.735+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:33:18.734+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:33:18.755+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.486 seconds
+[2025-08-16T09:33:49.644+0000] {processor.py:161} INFO - Started process (PID=1325) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:33:49.645+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:33:49.647+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:33:49.647+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:33:50.131+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:33:50.161+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:33:50.161+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:33:50.186+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:33:50.186+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:33:50.205+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.567 seconds
+[2025-08-16T09:34:20.752+0000] {processor.py:161} INFO - Started process (PID=1336) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:34:20.752+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:34:20.754+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:34:20.754+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:34:21.229+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:34:21.279+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:34:21.279+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:34:21.320+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:34:21.319+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:34:21.342+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.596 seconds
+[2025-08-16T09:34:52.097+0000] {processor.py:161} INFO - Started process (PID=1347) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:34:52.098+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:34:52.101+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:34:52.101+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:34:52.572+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:34:52.614+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:34:52.613+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:34:52.640+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:34:52.640+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:34:52.661+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.573 seconds
+[2025-08-16T09:35:23.382+0000] {processor.py:161} INFO - Started process (PID=1358) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:35:23.383+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:35:23.386+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:35:23.386+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:35:23.830+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:35:23.863+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:35:23.863+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:35:23.886+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:35:23.886+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:35:23.911+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.536 seconds
+[2025-08-16T09:35:54.002+0000] {processor.py:161} INFO - Started process (PID=1374) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:35:54.003+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:35:54.005+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:35:54.005+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:35:54.441+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:35:54.474+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:35:54.474+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:35:54.498+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:35:54.498+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:35:54.519+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.523 seconds
+[2025-08-16T09:36:25.420+0000] {processor.py:161} INFO - Started process (PID=1385) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:36:25.421+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:36:25.423+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:36:25.422+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:36:25.858+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:36:25.890+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:36:25.890+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:36:25.913+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:36:25.913+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:36:25.934+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.521 seconds
+[2025-08-16T09:36:56.799+0000] {processor.py:161} INFO - Started process (PID=1396) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:36:56.800+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:36:56.801+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:36:56.801+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:36:57.237+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:36:57.281+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:36:57.281+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:36:57.308+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:36:57.308+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:36:57.330+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.537 seconds
+[2025-08-16T09:37:28.286+0000] {processor.py:161} INFO - Started process (PID=1407) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:37:28.287+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:37:28.289+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:37:28.288+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:37:28.741+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:37:28.771+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:37:28.771+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:37:28.795+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:37:28.794+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:37:28.815+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.538 seconds
+[2025-08-16T09:37:59.594+0000] {processor.py:161} INFO - Started process (PID=1418) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:37:59.595+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:37:59.596+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:37:59.596+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:38:00.079+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:38:00.111+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:38:00.111+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:38:00.134+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:38:00.134+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:38:00.153+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.566 seconds
+[2025-08-16T09:38:31.065+0000] {processor.py:161} INFO - Started process (PID=1429) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:38:31.066+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:38:31.069+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:38:31.069+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:38:31.748+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:38:31.788+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:38:31.787+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:38:31.823+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:38:31.823+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:38:31.847+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.789 seconds
+[2025-08-16T09:39:02.114+0000] {processor.py:161} INFO - Started process (PID=1440) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:39:02.115+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:39:02.116+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:39:02.116+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:39:02.561+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:39:02.611+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:39:02.610+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:39:02.640+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:39:02.640+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:39:02.663+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.555 seconds
+[2025-08-16T09:39:33.521+0000] {processor.py:161} INFO - Started process (PID=1451) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:39:33.522+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:39:33.525+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:39:33.525+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:39:34.002+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:39:34.034+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:39:34.034+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:39:34.065+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:39:34.064+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:39:34.087+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.574 seconds
+[2025-08-16T09:40:05.003+0000] {processor.py:161} INFO - Started process (PID=1462) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:40:05.006+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:40:05.010+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:40:05.010+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:40:05.507+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:40:05.547+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:40:05.547+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:40:05.579+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:40:05.579+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:40:05.601+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.612 seconds
+[2025-08-16T09:40:35.797+0000] {processor.py:161} INFO - Started process (PID=1473) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:40:35.798+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:40:35.800+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:40:35.800+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:40:36.221+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:40:36.259+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:40:36.259+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:40:36.282+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:40:36.282+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:40:36.301+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.511 seconds
+[2025-08-16T09:41:07.133+0000] {processor.py:161} INFO - Started process (PID=1484) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:41:07.134+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:41:07.139+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:41:07.139+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:41:07.639+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:41:07.679+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:41:07.678+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:41:07.709+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:41:07.709+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:41:07.734+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.615 seconds
+[2025-08-16T09:41:38.524+0000] {processor.py:161} INFO - Started process (PID=1495) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:41:38.525+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:41:38.527+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:41:38.527+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:41:38.970+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:41:39.004+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:41:39.004+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:41:39.026+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:41:39.026+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:41:39.047+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.528 seconds
+[2025-08-16T09:42:09.846+0000] {processor.py:161} INFO - Started process (PID=1506) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:42:09.848+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:42:09.849+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:42:09.849+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:42:10.415+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:42:10.449+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:42:10.449+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:42:10.474+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:42:10.473+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:42:10.494+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.654 seconds
+[2025-08-16T09:42:41.229+0000] {processor.py:161} INFO - Started process (PID=1517) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:42:41.230+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:42:41.231+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:42:41.231+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:42:41.669+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:42:41.701+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:42:41.700+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:42:41.724+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:42:41.724+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:42:41.742+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.519 seconds
+[2025-08-16T09:43:12.549+0000] {processor.py:161} INFO - Started process (PID=1528) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:43:12.550+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:43:12.552+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:43:12.552+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:43:13.066+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:43:13.109+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:43:13.109+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:43:13.141+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:43:13.141+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:43:13.193+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.651 seconds
+[2025-08-16T09:43:44.172+0000] {processor.py:161} INFO - Started process (PID=1539) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:43:44.173+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:43:44.175+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:43:44.175+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:43:44.580+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:43:44.610+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:43:44.610+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:43:44.632+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:43:44.632+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:43:44.652+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.485 seconds
+[2025-08-16T09:44:14.703+0000] {processor.py:161} INFO - Started process (PID=1550) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:44:14.704+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:44:14.706+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:44:14.706+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:44:15.179+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:44:15.211+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:44:15.211+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:44:15.235+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:44:15.234+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:44:15.255+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.558 seconds
+[2025-08-16T09:44:46.138+0000] {processor.py:161} INFO - Started process (PID=1561) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:44:46.140+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:44:46.142+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:44:46.142+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:44:46.595+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:44:46.636+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:44:46.636+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:44:46.663+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:44:46.663+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:44:46.682+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.549 seconds
+[2025-08-16T09:45:17.540+0000] {processor.py:161} INFO - Started process (PID=1572) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:45:17.541+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:45:17.542+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:45:17.542+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:45:18.041+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:45:18.076+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:45:18.076+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:45:18.103+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:45:18.102+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:45:18.124+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.590 seconds
+[2025-08-16T09:45:49.078+0000] {processor.py:161} INFO - Started process (PID=1583) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:45:49.079+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:45:49.080+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:45:49.080+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:45:49.494+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:45:49.526+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:45:49.525+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:45:49.557+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:45:49.556+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:45:49.580+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.509 seconds
+[2025-08-16T09:46:20.513+0000] {processor.py:161} INFO - Started process (PID=1594) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:46:20.514+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:46:20.516+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:46:20.516+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:46:21.009+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:46:21.042+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:46:21.042+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:46:21.071+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:46:21.071+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:46:21.094+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.589 seconds
+[2025-08-16T09:46:51.968+0000] {processor.py:161} INFO - Started process (PID=1605) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:46:51.969+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:46:51.971+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:46:51.971+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:46:52.374+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:46:52.406+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:46:52.406+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:46:52.427+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:46:52.427+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:46:52.446+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.483 seconds
+[2025-08-16T09:47:23.444+0000] {processor.py:161} INFO - Started process (PID=1616) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:47:23.447+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:47:23.451+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:47:23.450+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:47:24.226+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:47:24.281+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:47:24.280+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:47:24.310+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:47:24.310+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:47:24.331+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.899 seconds
+[2025-08-16T09:47:55.123+0000] {processor.py:161} INFO - Started process (PID=1627) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:47:55.124+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:47:55.126+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:47:55.125+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:47:55.553+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:47:55.587+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:47:55.587+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:47:55.618+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:47:55.618+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:47:55.648+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.530 seconds
+[2025-08-16T09:48:26.552+0000] {processor.py:161} INFO - Started process (PID=1638) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:48:26.553+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:48:26.555+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:48:26.554+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:48:26.984+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:48:27.016+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:48:27.016+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:48:27.039+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:48:27.039+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:48:27.058+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.513 seconds
+[2025-08-16T09:48:57.182+0000] {processor.py:161} INFO - Started process (PID=1649) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:48:57.183+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:48:57.185+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:48:57.185+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:48:57.602+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:48:57.637+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:48:57.637+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:48:57.660+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:48:57.659+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:48:57.679+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.503 seconds
+[2025-08-16T09:49:28.412+0000] {processor.py:161} INFO - Started process (PID=1660) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:49:28.414+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:49:28.416+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:49:28.416+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:49:28.843+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:49:28.880+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:49:28.880+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:49:28.906+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:49:28.906+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:49:28.926+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.522 seconds
+[2025-08-16T09:49:59.825+0000] {processor.py:161} INFO - Started process (PID=1671) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:49:59.827+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:49:59.829+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:49:59.829+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:50:00.274+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:50:00.309+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:50:00.308+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:50:00.334+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:50:00.334+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:50:00.356+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.537 seconds
+[2025-08-16T09:50:31.191+0000] {processor.py:161} INFO - Started process (PID=1682) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:50:31.192+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:50:31.194+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:50:31.193+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:50:31.637+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:50:31.668+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:50:31.668+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:50:31.692+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:50:31.692+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:50:31.711+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.526 seconds
+[2025-08-16T09:51:02.688+0000] {processor.py:161} INFO - Started process (PID=1693) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:51:02.690+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:51:02.693+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:51:02.692+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:51:03.170+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:51:03.206+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:51:03.206+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:51:03.231+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:51:03.231+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:51:03.252+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.570 seconds
+[2025-08-16T09:51:33.980+0000] {processor.py:161} INFO - Started process (PID=1704) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:51:33.981+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:51:33.983+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:51:33.983+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:51:34.444+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:51:34.480+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:51:34.480+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:51:34.504+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:51:34.504+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:51:34.525+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.550 seconds
+[2025-08-16T09:52:05.500+0000] {processor.py:161} INFO - Started process (PID=1715) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:52:05.502+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:52:05.507+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:52:05.506+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:52:06.022+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:52:06.056+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:52:06.056+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:52:06.082+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:52:06.081+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:52:06.104+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.617 seconds
+[2025-08-16T09:52:37.009+0000] {processor.py:161} INFO - Started process (PID=1726) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:52:37.010+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:52:37.012+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:52:37.012+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:52:37.509+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:52:37.556+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:52:37.555+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:52:37.583+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:52:37.583+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:52:37.606+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.603 seconds
+[2025-08-16T09:53:08.484+0000] {processor.py:161} INFO - Started process (PID=1742) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:53:08.485+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:53:08.487+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:53:08.487+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:53:09.036+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:53:09.071+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:53:09.071+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:53:09.096+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:53:09.096+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:53:09.119+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.642 seconds
+[2025-08-16T09:53:39.185+0000] {processor.py:161} INFO - Started process (PID=1753) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:53:39.186+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:53:39.188+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:53:39.187+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:53:39.067+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:53:39.110+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:53:39.110+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:53:39.135+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:53:39.135+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:53:39.161+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.709 seconds
+[2025-08-16T09:54:09.965+0000] {processor.py:161} INFO - Started process (PID=1764) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:54:09.966+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:54:09.968+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:54:09.968+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:54:10.474+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:54:10.511+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:54:10.510+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:54:10.545+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:54:10.545+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:54:10.572+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.613 seconds
+[2025-08-16T09:54:41.395+0000] {processor.py:161} INFO - Started process (PID=1775) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:54:41.396+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:54:41.400+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:54:41.398+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:54:41.905+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:54:41.938+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:54:41.938+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:54:41.966+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:54:41.966+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:54:41.989+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.613 seconds
+[2025-08-16T09:55:12.064+0000] {processor.py:161} INFO - Started process (PID=1786) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:55:12.065+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:55:12.067+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:55:12.066+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:55:12.556+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:55:12.605+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:55:12.605+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:55:12.639+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:55:12.639+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:55:12.667+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.610 seconds
+[2025-08-16T09:55:43.505+0000] {processor.py:161} INFO - Started process (PID=1797) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:55:43.507+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:55:43.509+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:55:43.509+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:55:44.003+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:55:44.037+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:55:44.037+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:55:44.064+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:55:44.064+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:55:44.088+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.590 seconds
+[2025-08-16T09:56:14.182+0000] {processor.py:161} INFO - Started process (PID=1808) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:56:14.184+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:56:14.188+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:56:14.187+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:56:14.729+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:56:14.768+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:56:14.767+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:56:14.795+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:56:14.795+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:56:14.822+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.648 seconds
+[2025-08-16T09:56:45.798+0000] {processor.py:161} INFO - Started process (PID=1819) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:56:45.799+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:56:45.801+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:56:45.801+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:56:46.345+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:56:46.381+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:56:46.381+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:56:46.409+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:56:46.409+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:56:46.429+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.637 seconds
+[2025-08-16T09:57:17.248+0000] {processor.py:161} INFO - Started process (PID=1830) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:57:17.249+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:57:17.251+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:57:17.251+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:57:17.771+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:57:17.808+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:57:17.808+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:57:17.835+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:57:17.835+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:57:17.857+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.614 seconds
+[2025-08-16T09:57:48.738+0000] {processor.py:161} INFO - Started process (PID=1841) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:57:48.739+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:57:48.742+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:57:48.741+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:57:49.245+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:57:49.279+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:57:49.279+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:57:49.304+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:57:49.304+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:57:49.325+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.597 seconds
+[2025-08-16T09:58:20.144+0000] {processor.py:161} INFO - Started process (PID=1852) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:58:20.145+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:58:20.147+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:58:20.147+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:58:20.625+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:58:20.661+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:58:20.661+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:58:20.689+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:58:20.689+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:58:20.710+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.574 seconds
+[2025-08-16T09:58:50.835+0000] {processor.py:161} INFO - Started process (PID=1863) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:58:50.836+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:58:50.838+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:58:50.837+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:58:51.326+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:58:51.359+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:58:51.358+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:58:51.384+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:58:51.384+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:58:51.409+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.580 seconds
+[2025-08-16T09:59:22.156+0000] {processor.py:161} INFO - Started process (PID=1874) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:59:22.157+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:59:22.159+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:59:22.159+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:59:22.731+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:59:22.779+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:59:22.779+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:59:22.817+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:59:22.817+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:59:22.856+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.710 seconds
+[2025-08-16T09:59:53.694+0000] {processor.py:161} INFO - Started process (PID=1885) to work on /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:59:53.695+0000] {processor.py:830} INFO - Processing file /opt/airflow/dags/excel_to_mysql_dag.py for tasks to queue
+[2025-08-16T09:59:53.697+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:59:53.697+0000] {dagbag.py:545} INFO - Filling up the DagBag from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:59:54.171+0000] {processor.py:840} INFO - DAG(s) 'excel_to_mysql_daily_7am' retrieved from /opt/airflow/dags/excel_to_mysql_dag.py
+[2025-08-16T09:59:54.218+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:59:54.217+0000] {dag.py:3096} INFO - Sync 1 DAGs
+[2025-08-16T09:59:54.242+0000] {logging_mixin.py:188} INFO - [2025-08-16T09:59:54.241+0000] {dag.py:3954} INFO - Setting next_dagrun for excel_to_mysql_daily_7am to 2025-08-16 00:00:00+00:00, run_after=2025-08-17 00:00:00+00:00
+[2025-08-16T09:59:54.262+0000] {processor.py:183} INFO - Processing /opt/airflow/dags/excel_to_mysql_dag.py took 0.574 seconds
